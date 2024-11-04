@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Modo Oscuro",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wNg1HHW460GlRPDO15OCog",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/wNg1HHW460GlRPDO15OCog",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.035413Z",
+  "Updated": "2024-10-10T18:55:47.7561151Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

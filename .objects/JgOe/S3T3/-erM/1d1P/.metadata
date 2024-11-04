@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Usuarios",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1d1PCTi7D02XQUwxl_EKOg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/1d1PCTi7D02XQUwxl_EKOg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.6451051Z",
+  "Updated": "2024-10-10T18:34:23.6451051Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

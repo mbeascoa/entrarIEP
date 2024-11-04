@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="by-BdQhqqEWtfVvNXa00nQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="1086, 345, 91, 50" CvTextArea="1107, 363, 50, 16" CvTextArgument="Aceptar" CvType="Button" DesignTimeRectangle="1093, 351, 79, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Cambia la contraseña' role='dialog' /&gt;&lt;ctrl name='Aceptar' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Cambia la contraseña' role='dialog' /&gt;&lt;ctrl name='Aceptar' role='push button' automationid='' check:fulltext='Aceptar' /&gt;" Guid="5cdba8c1-a24f-4b1a-a3a1-9d912f096295" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='CleverCRM | IEP | Versión: 6.8.71 - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="764, 351, 24, 38" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Cambia la contraseña' role='dialog' /&gt;&lt;ctrl name='Chrome comprueba de forma periódica si tus contraseñas se encuen*' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Cambia la contraseña' role='dialog' /&gt;&lt;ctrl name='Chrome comprueba de forma periódica si tus contraseñas se encuen*' role='text' automationid='' check:fulltext='Chrome comprueba de forma periódica si tus contraseñas se encuentran en alguna lista publicada en' /&gt;" Guid="fe0fe240-c81c-491d-9e61-f5614f93df3e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="78b02b19d8dad7d15caf5a830f225559.png" xmlns="">06_CKK5AlW0myN2x4nDM2Dg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

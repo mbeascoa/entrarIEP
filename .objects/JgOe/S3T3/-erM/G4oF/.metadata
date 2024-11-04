@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Áreas",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "G4oFcxOv90O-0Utu-esrhA",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/G4oFcxOv90O-0Utu-esrhA",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.5071378Z",
+  "Updated": "2024-10-10T18:34:24.5071378Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

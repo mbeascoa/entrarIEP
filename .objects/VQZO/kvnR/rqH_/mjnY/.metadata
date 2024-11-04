@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Aceptar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "mjnYWyLBoU-HW0v5lnHNnA",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/mjnYWyLBoU-HW0v5lnHNnA",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/rqH_isXjbki8-VoSJSv0dw",
+  "Created": "2024-10-10T18:36:26.309813Z",
+  "Updated": "2024-10-10T18:36:26.309813Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F8S3GhYO5ESxbRSbQvQyvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="352, -633, 104, 30" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='CRM2' tag='IFRAME' /&gt;&lt;webctrl id='pagina_titulo' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='CRM2' tag='IFRAME' /&gt;&lt;webctrl id='pagina_titulo' tag='DIV' type='' class='dashboard_bar' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;Dashboard &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' check:text='Dashboard' /&gt;" Guid="8143c7f6-8a7e-463e-b952-1e056190d0c4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CleverCRM | IEP | Versión: 7.0.19' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

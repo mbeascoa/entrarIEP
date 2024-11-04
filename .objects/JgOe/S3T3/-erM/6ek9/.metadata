@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Alertas",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "6ek9px7WCEmsBuMlwSfWMA",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/6ek9px7WCEmsBuMlwSfWMA",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.8528444Z",
+  "Updated": "2024-10-10T18:34:23.8528444Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

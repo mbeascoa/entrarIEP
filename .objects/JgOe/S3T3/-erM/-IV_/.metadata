@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Logo IEP izquierda Dashboard",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "-IV_-W37akKTm7xDPkOByw",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/-IV_-W37akKTm7xDPkOByw",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:22.7796598Z",
+  "Updated": "2024-10-10T18:57:10.4387228Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

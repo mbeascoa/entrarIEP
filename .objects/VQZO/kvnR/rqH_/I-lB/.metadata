@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Logo IEP IMG",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "I-lBt2IgDUmHlCM-2RuyeQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/I-lBt2IgDUmHlCM-2RuyeQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/rqH_isXjbki8-VoSJSv0dw",
+  "Created": "2024-10-10T18:36:25.9377374Z",
+  "Updated": "2024-10-10T18:46:49.2595113Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

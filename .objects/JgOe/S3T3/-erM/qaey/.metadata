@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Cabeceras",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "qaeyCgsNnUOQNVhoc7F2sw",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/qaeyCgsNnUOQNVhoc7F2sw",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.2035268Z",
+  "Updated": "2024-10-10T18:34:24.2035268Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

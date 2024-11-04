@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Informes y Extractos",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "omOGxHWmgkCXyv2mIKnJrQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/omOGxHWmgkCXyv2mIKnJrQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:25.189132Z",
+  "Updated": "2024-10-10T18:34:25.189132Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

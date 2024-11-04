@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Cambia la contrasena",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "4GxAr2jf2kCR8Dl6W7rEsQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/4GxAr2jf2kCR8Dl6W7rEsQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T19:06:33.4644325Z",
+  "Updated": "2024-10-10T19:07:48.8632332Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

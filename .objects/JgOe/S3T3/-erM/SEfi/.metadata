@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Administración",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "SEfiqD70nkahmmMlNGo0yQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/SEfiqD70nkahmmMlNGo0yQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.5086887Z",
+  "Updated": "2024-10-10T18:34:23.5086887Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Mas",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "LrH0vUsk6E2OvtB6Jk1IyQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/LrH0vUsk6E2OvtB6Jk1IyQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:22.9732875Z",
+  "Updated": "2024-10-10T18:56:57.4170265Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

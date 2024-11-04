@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Por favor, cierre su an…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5RA9r6LjWUiUpUTCekqm_g",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/5RA9r6LjWUiUpUTCekqm_g",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/qFUofrgxnEW0vzvv_cUeMw",
+  "Created": "2024-10-10T18:38:15.3880853Z",
+  "Updated": "2024-10-10T18:38:15.3880853Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

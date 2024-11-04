@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="d86K3Jb-_UyHpGcdIvqwPA" Reference="XFyCJDNOH0iemmbwB2v2rg/qFUofrgxnEW0vzvv_cUeMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="kl-ZBCMZQEycTAZA20K2cw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHOSURBVDhPldLPK+RxHMfxTytFfrYuSFPrIOb7xbjIRfEHTCnlwEmiNN+tvWxzWzXc5aQQMxR3XJxoD5uDppXdwknKRqIcVqldPF/z/XzGNyc+9eg783l/3q/5fD7fMe8aqazUYgd/sG8rbxxhwEcc4gnntsIIi1KGTyZYjcXbE+V+3G/w415D5XCm1QS5Lmq92MYv7ESb1TiITVwQMO/5nT4Bab/NSxOwS8AdtTMoREepdc3VmMVfaGtPBKwRkCAgQ0CGgDxzzOduCzsJcuGPs7gEGfyzzff4wYIJz+toIiBJQLJu4MtCxcj0T+1Ex0ExoA+XtvkKY6gywRK1FcP5TXubZxSineg4uhPNu4B52/yItBnf1pwtGgJ8J1k4ju6kcLG+XZHKHtgAvdfWaLMG9+A06U5Ab6IcdkUqe2wDTtH4OsAEfJ9c5Jmb4BLX9Xb4HIte4p4NuEVPIeDzsi0yXt7Sd2jdOZpRXPAN/6HiMirgaoRt6DkKvR2t2YL+M+EaPrTgCCo+QCHdqIdqX+HekkKGQN9KMUA0eQMtEh3nBBdw/w895xD5dY0w7QNPhfyGO07UNWZQA9sYHeEuRFuegi5MO8hjAf0ohW1ww5hnaHIYHA2uijQAAAAASUVORK5CYII=" Reference="XFyCJDNOH0iemmbwB2v2rg/qFUofrgxnEW0vzvv_cUeMw" Selector="&lt;html app='chrome.exe' title='..: CleverCRM | Sesión expirada :..' /&gt;" Title="..: CleverCRM | Sesión expirada :.." Url="https://www.crm-iep.es/sesion_activa.html">
+      <imageRef attrName="InformativeScreenshot" originalValue="91c881f3915c3cf40aa42c3b551e85fa.jpg" xmlns="">020ZedeCMoE-8JXVRXq2buw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

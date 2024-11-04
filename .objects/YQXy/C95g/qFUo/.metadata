@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Chrome: ..: CleverCRM | Sesión expirada :..",
+  "Type": "Screen",
+  "Id": "qFUofrgxnEW0vzvv_cUeMw",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/qFUofrgxnEW0vzvv_cUeMw",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/C95gglUe70WniZ76c-wtAg",
+  "Created": "2024-10-10T18:38:15.1395312Z",
+  "Updated": "2024-10-20T08:16:40.9560568Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

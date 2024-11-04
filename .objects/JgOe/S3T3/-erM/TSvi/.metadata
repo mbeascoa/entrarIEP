@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Programas",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "TSvis8fuCkynzpahMiyyWg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/TSvis8fuCkynzpahMiyyWg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.3569377Z",
+  "Updated": "2024-10-10T18:34:24.3569377Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

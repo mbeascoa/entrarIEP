@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Boletines",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "iKef_SIsj0aYxmx15jRrZg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/iKef_SIsj0aYxmx15jRrZg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.9433607Z",
+  "Updated": "2024-10-10T18:34:24.9433607Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

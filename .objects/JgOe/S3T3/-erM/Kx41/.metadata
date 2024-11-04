@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Alumnos",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Kx41AUqMJUKMbllzjdTiJg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/Kx41AUqMJUKMbllzjdTiJg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.7790719Z",
+  "Updated": "2024-10-10T18:34:23.7790719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

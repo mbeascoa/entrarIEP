@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Facturación",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kMB542KBXk6mF1uYmNhdFg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/kMB542KBXk6mF1uYmNhdFg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.7607434Z",
+  "Updated": "2024-10-10T18:34:24.7607434Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

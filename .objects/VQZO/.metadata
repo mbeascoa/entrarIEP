@@ -1,0 +1,15 @@
+﻿{
+  "Name": "IEP Login",
+  "Description": "Pantalla de Login",
+  "Type": "App",
+  "Id": "VQZOcDM5902zlTBaIVdMZg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/VQZOcDM5902zlTBaIVdMZg",
+  "Created": "2024-10-10T18:36:25.8300877Z",
+  "Updated": "2024-10-10T18:39:41.3603339Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Conexion",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "8DxRFjeF2E2rAvRtlRdX1Q",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/8DxRFjeF2E2rAvRtlRdX1Q",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.3022847Z",
+  "Updated": "2024-10-10T19:00:20.9840554Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

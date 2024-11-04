@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Monitores del Sistema",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "AElG0D54WkuvaDfcVSxevQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/AElG0D54WkuvaDfcVSxevQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:25.2624257Z",
+  "Updated": "2024-10-10T18:34:25.2624257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

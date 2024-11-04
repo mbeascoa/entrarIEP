@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Chrome: CleverCRM | IEP | Versión: 7.0.19",
+  "Type": "Screen",
+  "Id": "-erMtbjxe0SaiRxwbX2_IQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/S3T3sU4Xa0qtVjA-EJtPNw",
+  "Created": "2024-10-10T18:34:22.684596Z",
+  "Updated": "2024-10-20T08:17:30.1020672Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

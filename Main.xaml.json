@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "BreakTriggerScopeInArgument",
+      "DisplayName": "BreakTriggerScopeInArgument",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "BOOL_EntroCRMExistosamente",
+      "DisplayName": "BOOL_EntroCRMExistosamente",
+      "Category": null,
+      "Tooltip": "¿ Cómo salgo del CRM de IEP ?",
+      "Placeholder": null,
+      "Widget": "Toggle",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Pantalla1",
+      "DisplayName": "Pantalla1",
+      "Category": null,
+      "Tooltip": "UIelement que consigo disponer desde que entro en el CRM",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

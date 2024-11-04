@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SDIs",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "LRGnWPCb5k6p9NYgdGchCg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/LRGnWPCb5k6p9NYgdGchCg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.6094698Z",
+  "Updated": "2024-10-10T18:34:24.6094698Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

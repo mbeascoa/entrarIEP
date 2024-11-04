@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Convocatorias",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "PKACPmlxoEWVDmkVFQ9ypQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/PKACPmlxoEWVDmkVFQ9ypQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.4271114Z",
+  "Updated": "2024-10-10T18:34:24.4271114Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

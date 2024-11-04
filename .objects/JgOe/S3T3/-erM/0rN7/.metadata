@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Soporte",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "0rN7POSOP0Wo6uhOyUYm6Q",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/0rN7POSOP0Wo6uhOyUYm6Q",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.0937328Z",
+  "Updated": "2024-10-10T18:45:28.4363913Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

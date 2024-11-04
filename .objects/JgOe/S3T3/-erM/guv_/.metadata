@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Expedientes",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "guv_rSAwCE-ZwP75hvqw8w",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/guv_rSAwCE-ZwP75hvqw8w",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.680953Z",
+  "Updated": "2024-10-10T18:34:24.680953Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

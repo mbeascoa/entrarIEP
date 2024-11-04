@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Chrome: IEP",
+  "Type": "Screen",
+  "Id": "rqH_isXjbki8-VoSJSv0dw",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/rqH_isXjbki8-VoSJSv0dw",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/kvnRENLXPEC7_rOO3KWSiQ",
+  "Created": "2024-10-10T18:36:25.8570205Z",
+  "Updated": "2024-10-20T08:16:05.0343834Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

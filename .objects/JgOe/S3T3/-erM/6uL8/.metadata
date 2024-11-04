@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Buscador",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "6uL8S2LTKUqR2Ov70u2fdA",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/6uL8S2LTKUqR2Ov70u2fdA",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:22.9127724Z",
+  "Updated": "2024-10-10T18:56:41.0369909Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

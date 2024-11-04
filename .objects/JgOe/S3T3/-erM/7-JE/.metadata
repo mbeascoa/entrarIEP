@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Modo Nocturno",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "7-JEDGc_O0WpKzo5Aor8lg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/7-JEDGc_O0WpKzo5Aor8lg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:23.1655966Z",
+  "Updated": "2024-10-10T18:44:00.8175708Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

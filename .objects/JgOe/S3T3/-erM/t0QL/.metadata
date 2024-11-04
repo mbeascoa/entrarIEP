@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Plantillas",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "t0QLKDyqd0ejQnmVpTiFIA",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/t0QLKDyqd0ejQnmVpTiFIA",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:24.8458074Z",
+  "Updated": "2024-10-10T18:34:24.8458074Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

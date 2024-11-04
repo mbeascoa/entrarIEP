@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Iniciar sesión aquí de …",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "2cnPi0tuIE6hFPa5EOy3ow",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/2cnPi0tuIE6hFPa5EOy3ow",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/qFUofrgxnEW0vzvv_cUeMw",
+  "Created": "2024-10-10T18:38:15.2065184Z",
+  "Updated": "2024-10-10T18:38:15.2065184Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

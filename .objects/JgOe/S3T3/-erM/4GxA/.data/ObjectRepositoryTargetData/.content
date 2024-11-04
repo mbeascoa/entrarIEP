@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y4eFieu2nky2zLxL3etKzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://crm-iep.es/app.php" CvTextArea="763, 233, 155, 16" CvTextArgument="Cambia la contrasena" CvType="Text" DesignTimeRectangle="763, 233, 156, 15" DesignTimeScaleFactor="1" ElementType="Text" Guid="48afd52e-bbf2-440e-8f2d-0be4008f6311" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CleverCRM | IEP | Versión: 6.8.71' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a493aedc7a36cf8c041fbfc83495723.png" xmlns="">0SqmuomMC70WshLnPKTqEbg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

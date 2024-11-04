@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Clave",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "fLZ38k_9xEKKy_CXqIdxQQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/fLZ38k_9xEKKy_CXqIdxQQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/rqH_isXjbki8-VoSJSv0dw",
+  "Created": "2024-10-10T18:36:26.119731Z",
+  "Updated": "2024-10-10T19:37:14.8130107Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

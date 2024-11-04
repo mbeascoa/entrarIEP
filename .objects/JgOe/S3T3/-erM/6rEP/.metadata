@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Dashboard Icono",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6rEP2FqMoEi8TsarfgaIDg",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/6rEP2FqMoEi8TsarfgaIDg",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:59:17.4342522Z",
+  "Updated": "2024-10-10T19:01:02.2337589Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

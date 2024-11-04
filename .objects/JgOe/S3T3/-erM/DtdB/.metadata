@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Marketing Automation",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "DtdBZx7rnkmQz-xv_woI8g",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/DtdBZx7rnkmQz-xv_woI8g",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:25.0319489Z",
+  "Updated": "2024-10-10T18:57:31.7641587Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

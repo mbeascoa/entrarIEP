@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cIB11qevAke1tJ0ip4-msQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://clever.crm-iep.es/app.php" CVScreenId="a77dfe04-4c8f-4648-918a-2602e2a81e66" CvTextArea="351, 155, 106, 18" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="352, 150, 104, 30" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='CRM2' tag='IFRAME' /&gt;&lt;webctrl id='pagina_titulo' tag='DIV' type='' class='dashboard_bar' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;Dashboard &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' check:innerText='Dashboard' /&gt;" Guid="4aa66b5a-c04b-4362-998d-8c0fcc1c752d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CleverCRM | IEP | Versión: 7.0.19' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1fb71408cd8265b69e4380b699dadd73.png" xmlns="">0pQ2jud5j00KEh_g4RQQCYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

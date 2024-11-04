@@ -1,0 +1,15 @@
+﻿{
+  "Name": "CleverCRM | Sesión expirada :.. app",
+  "Description": "Pantalla que indica que ya está logado",
+  "Type": "App",
+  "Id": "YQXye0s5DUy4X4VNWD_m4Q",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/YQXye0s5DUy4X4VNWD_m4Q",
+  "Created": "2024-10-10T18:38:15.1121369Z",
+  "Updated": "2024-10-10T18:38:50.281005Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

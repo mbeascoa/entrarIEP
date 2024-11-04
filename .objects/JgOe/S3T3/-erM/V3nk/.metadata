@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Buscar Alumnos",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "V3nkXtpm60adkK_aGG7GYQ",
+  "Reference": "XFyCJDNOH0iemmbwB2v2rg/V3nkXtpm60adkK_aGG7GYQ",
+  "ParentRef": "XFyCJDNOH0iemmbwB2v2rg/-erMtbjxe0SaiRxwbX2_IQ",
+  "Created": "2024-10-10T18:34:25.423292Z",
+  "Updated": "2024-10-10T18:34:25.423292Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
